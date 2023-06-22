@@ -1,0 +1,12 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "http://mameta29.github.io/sample_openbadge/badge-class.json",
+    "type": "BadgeClass",
+    "name": "Accomplished",
+    "description": "accomplished something good",
+    "image": "https://thejeshgn.com/blog/wp-content/uploads/2014/07/thejeshgn_icon.png",
+    "criteria": "https://onplanetz.com/",
+    "tags": ["visiter", "onplanetz"],
+    "alignment": [ ],
+    "issuer": "http://mameta29.github.io/sample_openbadge/issuer-organization.json"
+}
