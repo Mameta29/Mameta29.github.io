@@ -1,0 +1,18 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "Assertion",
+    "id": "http://mameta29.github.io/sample_openbadge/issue-badge.json",
+    "recipient":
+    {
+        "type": "email",
+        "hashed": true,
+        "identity": "sha256$59d22ca758e875f0b89696b1560635de00ac56abf938b03154b5e13739daf946"
+    },
+    "badge": "http://mameta29.github.io/sample_openbadge/badge-class.json",
+    "verification":
+    {
+        "type": "hosted"
+    },
+    "issuedOn": "2022-06-17T23:59:59Z",
+    "expires": "2030-06-30T23:59:59Z"
+}
